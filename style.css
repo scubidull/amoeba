@@ -1,21 +1,20 @@
-```css
 :root { 
   --bg:        #ffffff; 
-  --ink:       #5a2637; 
-  --red:       #e85d88; 
-  --red-deep:  #c93f6d; 
-  --gray:      #9a7180; 
-  --gray-line: #f0c9d7; 
-  --gray-fill: #fff3f7; 
+  --ink:       #5c1a30; 
+  --red:       #f28ab2; 
+  --red-deep:  #d6598f; 
+  --gray:      #b98a98; 
+  --gray-line: #f5d9e3; 
+  --gray-fill: #fdf1f5; 
  
-  --surface-dark:   #fff0f5; 
-  --on-dark:        #5a2637; 
-  --on-dark-muted:  #a65f78; 
-  --on-dark-line:   rgba(232, 93, 136, 0.22); 
+  --surface-dark:   #5c2036; 
+  --on-dark:        #fff0f5; 
+  --on-dark-muted:  #e3b3c4; 
+  --on-dark-line:   rgba(255, 200, 220, 0.2); 
  
   --font-display: 'Unbounded', system-ui, sans-serif; 
   --font-body: 'Manrope', system-ui, sans-serif; 
-} 
+}
  
 * { box-sizing: border-box; } 
  
